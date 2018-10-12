@@ -1,6 +1,6 @@
 # README
 
-TThis is first Rails Application. Simple "Hello, World!".
+This is first Rails Application. Simple "Hello, World!".
 
 Things you may want to cover:
 
